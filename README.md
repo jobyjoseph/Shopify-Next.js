@@ -33,4 +33,6 @@ I learned about these tech stacks as part of this project so far
 - How to add prettier as a dev dependency
 - What is a Git hook
 - npx husky install returning install command deprecated
-- 
+- husky add is deprecated
+- How to run yarn lint in husky pre-commit
+- How to build nextjs project before pushing the code
