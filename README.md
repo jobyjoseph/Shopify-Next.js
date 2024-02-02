@@ -36,3 +36,4 @@ I learned about these tech stacks as part of this project so far
 - husky add is deprecated
 - How to run yarn lint in husky pre-commit
 - How to build nextjs project before pushing the code
+- How to standardize the commit messages within the team
