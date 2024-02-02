@@ -12,6 +12,8 @@ I learned about these tech stacks as part of this project so far
 - TypeScript
 - NVM
 - Git
+- Git hook
+- Husky
 
 ## My Google / ChatGPT Search Queries
 
@@ -29,3 +31,6 @@ I learned about these tech stacks as part of this project so far
 - What is the purpose of globals and readonly value in .eslintrc.json
 - How to add rules to eslintrc json file
 - How to add prettier as a dev dependency
+- What is a Git hook
+- npx husky install returning install command deprecated
+- 
