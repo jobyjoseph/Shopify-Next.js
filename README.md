@@ -6,14 +6,17 @@ This project is an attempt to run a Next.js eCommerce project using Shopify API.
 
 I learned about these tech stacks as part of this project so far
 
-- Next.js
-- ESLint
-- Prettier
-- TypeScript
-- NVM
-- Git
-- Git hook
-- Husky
+- Next.js: JS framework
+- ESLint: code quality
+- Prettier: format code
+- TypeScript: static type check
+- NVM: node version manager
+- Git: version control
+- Git hook: events for git
+- Husky: package to run git hooks
+- Commitlint: package to lint commit messages
+- .vscode: folder to save VS code settings
+- cross-env: package for cross os env variables
 
 ## My Google / ChatGPT Search Queries
 
@@ -37,3 +40,5 @@ I learned about these tech stacks as part of this project so far
 - How to run yarn lint in husky pre-commit
 - How to build nextjs project before pushing the code
 - How to standardize the commit messages within the team
+- How to share uniform VS Code settings with the team
+- How to set default node version in nvm
