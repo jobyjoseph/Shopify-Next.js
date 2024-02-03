@@ -42,3 +42,4 @@ I learned about these tech stacks as part of this project so far
 - How to standardize the commit messages within the team
 - How to share uniform VS Code settings with the team
 - How to set default node version in nvm
+- How to setup a proper directory structure in a nextjs project
