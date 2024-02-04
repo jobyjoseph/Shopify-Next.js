@@ -15,8 +15,6 @@
         "args": "after-used",
         "argsIgnorePattern": "^_"
       }
-    ],
-    "react/jsx-uses-react": "on",
-    "react/react-in-jsx-scope": "on"
+    ]
   }
 }

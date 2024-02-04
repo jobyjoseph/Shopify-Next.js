@@ -46,6 +46,7 @@ I learned about these tech stacks as part of this project so far
 - How to setup a proper directory structure in a nextjs project
 - How to setup storybook
 - What is the meaning of resolutions property in package.json
+- storybook in nextjs
 
 ## References That Helped Immensely
 
