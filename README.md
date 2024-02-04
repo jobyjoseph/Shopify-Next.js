@@ -47,6 +47,7 @@ I learned about these tech stacks as part of this project so far
 - How to setup storybook
 - What is the meaning of resolutions property in package.json
 - storybook in nextjs
+- Storybook not taking nextjs images from public folder
 
 ## References That Helped Immensely
 
